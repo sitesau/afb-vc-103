@@ -1,0 +1,22 @@
+{
+  "wheel_id": 89,
+  "slug": "afb-vc-103",
+  "project": "adelaide-finance-broker-buyer-tips-av-103",
+  "parent_t1_ref": "afb-vc-001",
+  "node_role": "feeder",
+  "money_target": "adelaidefinancebroker.com.au",
+  "primary_kw": "adelaide finance broker buyer tips",
+  "intended_url": "https://adelaide-finance-broker-buyer-tips-av-103.pages.dev/",
+  "links": [
+    {
+      "target_url": "https://adelaide-finance-broker-av-150.onrender.com/",
+      "anchor": "adelaide finance broker",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://adelaide-finance-broker-av-150.onrender.com/",
+      "anchor": "adelaide finance broker",
+      "rel": "follow"
+    }
+  ]
+}
